@@ -1154,7 +1154,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 #bottom ul.bottom-nav > li { display: inline-block; }
 #bottom ul.bottom-nav > li > a { display: block; color: #666; padding: 0 10px; position: relative; }
 
-#bottom ul.bottom-nav > li > a:hover { color: #ffbc13; }
+#bottom ul.bottom-nav > li > a:hover { color:#1e9f1e; }
 #bottom ul.bottom-nav ul ul { display: none; }
 
 /* Pagination & Arrows
