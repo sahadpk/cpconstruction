@@ -1337,3 +1337,69 @@ only screen and (                min-resolution: 2dppx){
   
    
   }
+
+  .contact-us-area {
+	padding: 0px 0;
+  }
+  .contact-form legend {
+	color: #111111;
+	font-size: 34px;
+	font-weight: 500;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 48px;
+	text-transform: uppercase;
+  }
+  .contact-form .form-group {
+	margin: 0 0 15px 0;
+  }
+  .contact-form label.control-label {
+	border: 1px solid #e7e7e7;
+	border-right: none;
+	text-align: center;
+	line-height: 44px;
+	height: 48px;
+	padding-top: 0;
+	width: 48px;
+  }
+  .contact-form label.arealebel {
+	min-height: 71px;
+	line-height: 68px;
+  }
+  .contact-form label.control-label .fa {
+	color: #1e9f1e;
+  }
+  .contact-form input.form-control {
+	border: 1px solid #e7e7e7;
+	border-radius: 0;
+	box-shadow: none;
+	height: 48px;
+  }
+  .contact-form textarea.form-control {
+	border: 1px solid #e7e7e7;
+	border-radius: 0;
+	box-shadow: none;
+	min-height: 71px;
+  }
+  .contact-form button {
+	background: #1e9f1e;
+	border: none;
+	border-radius: 0;
+	box-shadow: none;
+	color: #ffffff;
+	font-size: 18px;
+	padding: 25px 0;
+	text-align: center;
+	text-transform: uppercase;
+	width: 100%;
+	transition: all 0.5s ease 0s;
+  }
+  .contact-form button:hover,
+  .contact-form button:focus {
+	background: #111111;
+	color: #ffffff;
+	transition: all 0.5s ease 0s;
+  }
+  .contact-form .send-button {
+	margin-top: 40px;
+	margin-bottom: 0;
+  }
