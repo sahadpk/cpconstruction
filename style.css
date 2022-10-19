@@ -1309,3 +1309,31 @@ only screen and (                min-resolution: 2dppx){
 		background-size: 97px 15px;
 	}
 }
+.whatsapp-msg-sticky{
+	color: red;
+	position: fixed;
+	z-index: 4000;
+	margin-top: 60vh;
+	left:30px;
+	text-align: end;
+	float: right;
+	z-index: 999;
+  }
+  .wp-icon{
+	height: 50px;
+	width: 50px;
+	cursor: pointer;
+	z-index: 999;
+	
+   
+  }
+  .ph-icon{
+	padding: 10px;
+	font-size: 33px;
+	color: #0052a5;
+	cursor: pointer;
+	z-index: 999;
+  
+  
+   
+  }
